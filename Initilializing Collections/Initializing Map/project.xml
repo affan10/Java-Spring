@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN//EN" "http://www.springframework.org/dtd/spring-beans.dtd">
+
+<beans>
+    <bean id = "Triangle" class = "springpractice.Triangle">
+        <property name = "pointsMap">
+            <map>
+                <entry key = "1" value-ref = "zeroPoint"></entry>
+                <entry key = "2" value-ref = "point2"></entry>
+                <entry key = "3" value-ref = "point3"></entry>
+            </map>
+        </property>
+    </bean>
+    
+    <bean id = "zeroPoint" class = "springpractice.Point">
+        <property name = "x" value = "0"></property>
+        <property name = "y" value = "0"></property>
+    </bean>
+    
+    <bean id = "point2" class = "springpractice.Point">
+        <property name = "x" value = "-20"></property>
+        <property name = "y" value = "0"></property>
+    </bean>
+    
+    <bean id = "point3" class = "springpractice.Point">
+        <property name = "x" value = "20"></property>
+        <property name = "y" value = "0"></property>
+    </bean>
+</beans>
+
+<!-- For more info on Initilizing different collections: https://docs.spring.io/spring/docs/2.5.x/reference/xsd-config.html -->
