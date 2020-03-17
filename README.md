@@ -17,5 +17,7 @@ Concepts covered include:
 - Inner Beans, Aliases and idref property
 - Initializing Collections - List & Map
 - Bean Autowiring
+- Using ApplicationContextAware and BeanNameAware interfaces
+- Bean Definition Inheritance - Objects & List of Objects
 
 Code is based on JavaBrains Spring Framework Tutorial: https://www.youtube.com/watch?v=GB8k2-Egfv0&list=PLC97BDEFDCDD169D7 
