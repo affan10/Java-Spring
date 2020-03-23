@@ -1,6 +1,6 @@
-# Java Spring Core v4.0.1 on Netbeans IDE 8.2 on Ubuntu 18.04
+# Java Spring Core v4.0.1 on Netbeans IDE 8.2
 
-The repository covers practice of certain concepts related to Java's Spring Core Framework. To configure Spring on Netbeans IDE 8.2:
+The repository covers practice of certain concepts related to Java's Spring Core Framework, configured on Ubuntu 18.04. To configure Spring on Netbeans IDE 8.2:
 - Click on the arrow beside your Java project name
 - Right click on Libraries
 - Click on Add Library...
