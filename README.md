@@ -19,5 +19,7 @@ Concepts covered include:
 - Bean Autowiring
 - Using ApplicationContextAware and BeanNameAware interfaces
 - Bean Definition Inheritance - Objects & List of Objects
+- Bean Lifecycle Callbacks
+- Bean Post Processors
 
 Code is based on JavaBrains Spring Framework Tutorial
