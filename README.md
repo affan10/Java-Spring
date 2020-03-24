@@ -25,5 +25,7 @@ Concepts covered include:
 - Introduction To Annotations - Required Annotation
 - Autowire And Qualifier Annotations
 - JSR-250 Annotations - Resource, PostConstruct and PreDestroy Annotations
+- Component And Stereotype Annotations
+- Using MessageSource Interface To Get Text From Properties File
 
 Code is based on JavaBrains Spring Framework Tutorial
