@@ -25,7 +25,7 @@ public class Circle implements Shape {
 
     @Override
     public void draw() {
-        System.out.println("Drawing Triangle...\nCenter Point = (" + getCenter().getX() + ", " + getCenter().getY() + ")");
+        System.out.println("Drawing Circle...\nCenter Point = (" + getCenter().getX() + ", " + getCenter().getY() + ")");
     }
     
 }
