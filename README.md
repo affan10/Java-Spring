@@ -27,5 +27,7 @@ Concepts covered include:
 - JSR-250 Annotations - Resource, PostConstruct and PreDestroy Annotations
 - Component And Stereotype Annotations
 - Using MessageSource Interface To Get Text From Properties File
+- Event Handling In Spring - Handling Both Internal Spring Events & Custom Defined Events
+- AOP To Be Continued For The Time Being...
 
 Code is based on JavaBrains Spring Framework Tutorial
