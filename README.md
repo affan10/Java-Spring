@@ -30,4 +30,4 @@ Concepts covered include:
 - Event Handling In Spring - Handling Both Internal Spring Events & Custom Defined Events
 - AOP To Be Continued For The Time Being...
 
-Code is based on JavaBrains Spring Framework Tutorial
+Code is based on JavaBrains Spring Framework Tutorial: https://www.youtube.com/watch?v=GB8k2-Egfv0&list=PLC97BDEFDCDD169D7
